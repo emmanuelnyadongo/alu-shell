@@ -1,2 +1,2 @@
-15-symbolic_link_permissions
+#!/bin/bash
 chown -h vincent:staff _hello
